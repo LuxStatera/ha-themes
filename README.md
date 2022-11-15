@@ -19,3 +19,5 @@ I did not change the color names so if you decide to look at each file they won'
 I suggest installing HACS and then download the "Cyberpunk 2077" theme so you can follow a solid installation guide. From there you can add these files to your "themes" directory. Make sure each file has its own directory with the same name as the file. For example "hell.yaml" will be in the "hell" directory which is located in the "themes" directory.
 
 When adding new themes or making changes to old themes you will need to restart Home Asssitant for them to show up.
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLuxStatera%2Fha-themes&count_bg=%238DBFEF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitor+Count&edge_flat=false"/></a>

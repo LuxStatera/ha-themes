@@ -20,4 +20,6 @@ I suggest installing HACS and then download the "Cyberpunk 2077" theme so you ca
 
 When adding new themes or making changes to old themes you will need to restart Home Asssitant for them to show up.
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLuxStatera%2Fha-themes&count_bg=%238DBFEF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitor+Count&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLuxStatera%2Fha-themes&count_bg=%238DBFEF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitor+Count&edge_flat=false"/></a> ![22039 (1)](https://user-images.githubusercontent.com/73693443/202023137-0055a043-a22f-4c3c-8f1a-b2d08c85ba8b.gif)
+
+

@@ -1,5 +1,9 @@
 # ha-themes
-Home Assistant Themes
+
+![ha-themes](https://user-images.githubusercontent.com/73693443/202008953-5d0ff9aa-0456-4541-978b-b25a39df3a41.png)
+
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/73693443/202003948-e486037e-d941-423a-92e0-ba34d110683a.gif)
+
 
 <img width="1432" alt="h4ck3r" src="https://user-images.githubusercontent.com/73693443/201922516-9abf1c61-f574-450d-85f9-cf0c46907b87.png"> (h4ck3r theme)
 
@@ -7,6 +11,7 @@ Home Assistant Themes
 
 <img width="1435" alt="vaporwave-fire" src="https://user-images.githubusercontent.com/73693443/201922598-8a03492d-8765-4a39-ab1f-6c9a9549cb00.png"> (vaporwave-fire theme)
 
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/73693443/202004066-81eb39cd-a962-462e-949c-a6bdda2a7bf9.gif)
 
 
 I downloaded the Cyberpunk 2077 theme from HACS and then edited the file so I could customize the colors and background image.

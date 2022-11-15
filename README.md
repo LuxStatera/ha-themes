@@ -1,7 +1,7 @@
 # ha-themes
 Home Assistant Themes
 
-I downloaded the Cyberpunk 2077 theme from HACS and then edited the file so I could customize the colors and background.
+I downloaded the Cyberpunk 2077 theme from HACS and then edited the file so I could customize the colors and background image.
 
 I did not change the color names so if you decide to look at each file, they won't make sense. All I did was change the color codes and the background link.
 

@@ -3,6 +3,11 @@ Home Assistant Themes
 
 <img width="1436" alt="HA_Dasboard-M" src="https://user-images.githubusercontent.com/73693443/201916647-7862e1fd-e556-446d-8329-c52bf4bccaec.png"> (h4ck3r theme)
 
+![HA_Dashboard-H](https://user-images.githubusercontent.com/73693443/201918837-20dc0975-4ee1-4ed5-afd5-90e744cde811.png) (hell theme)
+
+![HA_Dashboard-V](https://user-images.githubusercontent.com/73693443/201918912-5fe82585-3483-4c8e-a447-5f7f829c0004.png) (vaporwave-fire theme)
+
+
 
 I downloaded the Cyberpunk 2077 theme from HACS and then edited the file so I could customize the colors and background image.
 

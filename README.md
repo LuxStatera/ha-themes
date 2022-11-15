@@ -1,11 +1,11 @@
 # ha-themes
 Home Assistant Themes
 
-<img width="1436" alt="HA_Dasboard-M" src="https://user-images.githubusercontent.com/73693443/201916647-7862e1fd-e556-446d-8329-c52bf4bccaec.png"> (h4ck3r theme)
+<img width="1432" alt="h4ck3r" src="https://user-images.githubusercontent.com/73693443/201922516-9abf1c61-f574-450d-85f9-cf0c46907b87.png"> (h4ck3r theme)
 
-![HA_Dashboard-H](https://user-images.githubusercontent.com/73693443/201918837-20dc0975-4ee1-4ed5-afd5-90e744cde811.png) (hell theme)
+<img width="1431" alt="hell" src="https://user-images.githubusercontent.com/73693443/201922550-11bb08e3-8023-42cb-a458-f7c06e130128.png"> (hell theme)
 
-![HA_Dashboard-V](https://user-images.githubusercontent.com/73693443/201918912-5fe82585-3483-4c8e-a447-5f7f829c0004.png) (vaporwave-fire theme)
+<img width="1435" alt="vaporwave-fire" src="https://user-images.githubusercontent.com/73693443/201922598-8a03492d-8765-4a39-ab1f-6c9a9549cb00.png"> (vaporwave-fire theme)
 
 
 

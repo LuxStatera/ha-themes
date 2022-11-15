@@ -1,6 +1,4 @@
-![ha-themes](https://user-images.githubusercontent.com/73693443/202008953-5d0ff9aa-0456-4541-978b-b25a39df3a41.png)
-
-![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/73693443/202003948-e486037e-d941-423a-92e0-ba34d110683a.gif)
+![ha-themes](https://user-images.githubusercontent.com/73693443/202008953-5d0ff9aa-0456-4541-978b-b25a39df3a41.png) ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/73693443/202003948-e486037e-d941-423a-92e0-ba34d110683a.gif)
 
 
 <img width="1432" alt="h4ck3r" src="https://user-images.githubusercontent.com/73693443/201922516-9abf1c61-f574-450d-85f9-cf0c46907b87.png"> (h4ck3r theme)

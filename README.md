@@ -11,6 +11,8 @@
 
 <img width="1434" alt="christmas" src="https://user-images.githubusercontent.com/73693443/202054379-5be49c97-0053-4da2-87de-75a242115a43.png"> (christmas theme)
 
+<img width="1437" alt="lofi" src="https://user-images.githubusercontent.com/73693443/202352160-bbbd4419-3560-4484-b8d8-e82d6f06942e.png"> (lofi theme)
+
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/73693443/202004066-81eb39cd-a962-462e-949c-a6bdda2a7bf9.gif)
 
 

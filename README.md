@@ -1,3 +1,5 @@
+UPDATE: Unfortunately with the latest HA update these themes no longer look the way they should. Hopefully they fix the color issue with the next update.
+
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/73693443/202003948-e486037e-d941-423a-92e0-ba34d110683a.gif) 
 
 ![ha-themes](https://user-images.githubusercontent.com/73693443/202008953-5d0ff9aa-0456-4541-978b-b25a39df3a41.png) ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/73693443/202003948-e486037e-d941-423a-92e0-ba34d110683a.gif)

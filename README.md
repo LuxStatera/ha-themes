@@ -16,6 +16,9 @@
 
 <img width="1432" alt="Screen Shot 2023-06-16 at 3 45 46 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/a96a9836-3d7c-4513-a305-d61c1517fd3c"> (digital-high theme)
 
+<img width="1433" alt="Screen Shot 2023-06-16 at 4 42 45 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/03dbc885-e149-4415-a472-4b6e9ae3977d"> (futuristic-morning theme)
+
+
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/73693443/202004066-81eb39cd-a962-462e-949c-a6bdda2a7bf9.gif)
 

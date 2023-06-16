@@ -14,6 +14,9 @@
 
 <img width="1437" alt="lofi" src="https://user-images.githubusercontent.com/73693443/202352160-bbbd4419-3560-4484-b8d8-e82d6f06942e.png"> (lofi theme)
 
+<img width="1434" alt="Screen Shot 2023-06-16 at 3 32 51 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/f81e6cc5-b56d-4194-98bf-2f2b168c32d7"> (digital-high theme)
+
+
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/73693443/202004066-81eb39cd-a962-462e-949c-a6bdda2a7bf9.gif)
 
 

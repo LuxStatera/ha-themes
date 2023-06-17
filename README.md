@@ -18,7 +18,7 @@
 
 <img width="1433" alt="Screen Shot 2023-06-16 at 4 42 45 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/03dbc885-e149-4415-a472-4b6e9ae3977d"> (futuristic-morning)
 
-<img width="1433" alt="Screen Shot 2023-06-16 at 7 09 56 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/b577ff68-4471-4fe7-87c8-3c92fa14ccae"> (warlord)
+<img width="1432" alt="Screen Shot 2023-06-16 at 7 39 18 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/d1916544-0f53-43cc-8b01-d30408f8ef00"> (warlord)
 
 
 

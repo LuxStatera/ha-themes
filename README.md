@@ -12,6 +12,9 @@
 
 <img width="1432" alt="h4ck3r" src="https://user-images.githubusercontent.com/73693443/201922516-9abf1c61-f574-450d-85f9-cf0c46907b87.png"> (h4ck3r)
 
+<img width="1433" alt="Screen Shot 2023-06-16 at 8 07 52 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/58c61c46-71fe-4ce5-baf6-4e39d4a2cadf"> (smoking-good)
+
+
 <img width="1431" alt="hell" src="https://user-images.githubusercontent.com/73693443/201922550-11bb08e3-8023-42cb-a458-f7c06e130128.png"> (hell)
 
 <img width="1435" alt="vaporwave-fire" src="https://user-images.githubusercontent.com/73693443/201922598-8a03492d-8765-4a39-ab1f-6c9a9549cb00.png"> (vaporwave-fire)

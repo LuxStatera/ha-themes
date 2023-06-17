@@ -4,6 +4,12 @@
 ![ha-themes](https://user-images.githubusercontent.com/73693443/202008953-5d0ff9aa-0456-4541-978b-b25a39df3a41.png) ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/73693443/202003948-e486037e-d941-423a-92e0-ba34d110683a.gif)
 
 
+<img width="1432" alt="Screen Shot 2023-06-16 at 3 45 46 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/a96a9836-3d7c-4513-a305-d61c1517fd3c"> (digital-high)
+
+<img width="1433" alt="Screen Shot 2023-06-16 at 4 42 45 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/03dbc885-e149-4415-a472-4b6e9ae3977d"> (futuristic-morning)
+
+<img width="1432" alt="Screen Shot 2023-06-16 at 7 39 18 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/d1916544-0f53-43cc-8b01-d30408f8ef00"> (warlord)
+
 <img width="1432" alt="h4ck3r" src="https://user-images.githubusercontent.com/73693443/201922516-9abf1c61-f574-450d-85f9-cf0c46907b87.png"> (h4ck3r)
 
 <img width="1431" alt="hell" src="https://user-images.githubusercontent.com/73693443/201922550-11bb08e3-8023-42cb-a458-f7c06e130128.png"> (hell)
@@ -14,11 +20,6 @@
 
 <img width="1437" alt="lofi" src="https://user-images.githubusercontent.com/73693443/202352160-bbbd4419-3560-4484-b8d8-e82d6f06942e.png"> (lofi)
 
-<img width="1432" alt="Screen Shot 2023-06-16 at 3 45 46 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/a96a9836-3d7c-4513-a305-d61c1517fd3c"> (digital-high)
-
-<img width="1433" alt="Screen Shot 2023-06-16 at 4 42 45 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/03dbc885-e149-4415-a472-4b6e9ae3977d"> (futuristic-morning)
-
-<img width="1432" alt="Screen Shot 2023-06-16 at 7 39 18 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/d1916544-0f53-43cc-8b01-d30408f8ef00"> (warlord)
 
 
 

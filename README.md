@@ -26,6 +26,8 @@
 
 <img width="1437" alt="lofi" src="https://user-images.githubusercontent.com/73693443/202352160-bbbd4419-3560-4484-b8d8-e82d6f06942e.png"> (lofi)
 
+<img width="1437" alt="Screen Shot 2023-06-20 at 2 00 45 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/199b9752-5a74-4990-b628-4b0418a4d774"> (summer)
+
 
 
 

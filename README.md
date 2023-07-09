@@ -34,6 +34,7 @@
 
 <img width="1430" alt="Screen Shot 2023-07-08 at 10 19 11 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/59ca256c-44fb-4700-81a2-41b52cb0b550"> (neon-joker)
 
+![8bit](https://github.com/LuxStatera/ha-themes/assets/73693443/1d76c9d5-dd9e-4eab-aa2d-b78529947900) (8bit-city  - animated)
 
 
 

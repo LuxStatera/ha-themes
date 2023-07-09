@@ -34,10 +34,7 @@
 
 <img width="1430" alt="Screen Shot 2023-07-08 at 10 19 11 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/59ca256c-44fb-4700-81a2-41b52cb0b550"> (neon-joker)
 
-
-
-
-![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/73693443/202004066-81eb39cd-a962-462e-949c-a6bdda2a7bf9.gif)
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/73693443/202004066-81eb39cd-a962-462e-949c-a6bdda2a7bf9.gif) (8bit-city  - animated)
 
 
 I downloaded the "Cyberpunk 2077" theme from HACS and then edited the file so I could customize the colors and background image.

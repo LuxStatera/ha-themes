@@ -38,6 +38,8 @@
 
 <img width="1434" alt="Screen Shot 2023-07-08 at 11 58 44 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/83d4e1d0-f85f-463f-941e-44f5b3825d0f"> (traveler  - animated)
 
+<img width="1435" alt="Screen Shot 2023-07-09 at 1 41 33 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/5d496847-3087-4a9f-b673-c1375726337c"> (8bit-rain  - animated)
+
 
 
 

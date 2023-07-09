@@ -32,6 +32,8 @@
 
 <img width="1434" alt="Screen Shot 2023-07-08 at 9 37 12 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/c41f0403-002b-4fbd-8cf3-422df659beeb"> (peacock-puddle)
 
+<img width="1435" alt="Screen Shot 2023-07-08 at 9 52 25 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/316dced1-a1fc-4656-bc2f-b6e95afe896b"> (neon-joker)
+
 
 
 

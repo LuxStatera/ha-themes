@@ -14,9 +14,7 @@
 
 <img width="1434" alt="Screen Shot 2023-06-16 at 8 40 35 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/81cc783a-5feb-4de3-99de-a7aa8a385e25"> (graveyard)
 
-
 <img width="1433" alt="Screen Shot 2023-06-16 at 8 07 52 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/58c61c46-71fe-4ce5-baf6-4e39d4a2cadf"> (smoking-good)
-
 
 <img width="1431" alt="hell" src="https://user-images.githubusercontent.com/73693443/201922550-11bb08e3-8023-42cb-a458-f7c06e130128.png"> (hell)
 
@@ -33,6 +31,9 @@
 <img width="1434" alt="Screen Shot 2023-07-08 at 9 37 12 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/c41f0403-002b-4fbd-8cf3-422df659beeb"> (peacock-puddle)
 
 <img width="1430" alt="Screen Shot 2023-07-08 at 10 19 11 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/59ca256c-44fb-4700-81a2-41b52cb0b550"> (neon-joker)
+
+<img width="1431" alt="Screen Shot 2023-07-08 at 11 25 51 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/7cbfae38-ac98-456f-9227-659fdc2f3a18"> (hope-city)
+
 
 ![8bit](https://github.com/LuxStatera/ha-themes/assets/73693443/1d76c9d5-dd9e-4eab-aa2d-b78529947900) (8bit-city  - animated)
 

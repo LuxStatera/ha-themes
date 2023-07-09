@@ -28,6 +28,8 @@
 
 <img width="1437" alt="Screen Shot 2023-06-20 at 2 00 45 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/199b9752-5a74-4990-b628-4b0418a4d774"> (summer)
 
+<img width="1435" alt="Screen Shot 2023-07-08 at 9 10 49 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/59e938c1-d483-4a1b-a298-551cd2de3440"> (hexagon)
+
 
 
 

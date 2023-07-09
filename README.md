@@ -34,8 +34,9 @@
 
 <img width="1431" alt="Screen Shot 2023-07-08 at 11 25 51 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/7cbfae38-ac98-456f-9227-659fdc2f3a18"> (hope-city)
 
+<img width="1438" alt="Screen Shot 2023-07-08 at 10 40 32 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/259e1113-f0a1-421d-811a-131e976da615"> (8bit-city  - animated)
 
-![8bit](https://github.com/LuxStatera/ha-themes/assets/73693443/1d76c9d5-dd9e-4eab-aa2d-b78529947900) (8bit-city  - animated)
+<img width="1434" alt="Screen Shot 2023-07-08 at 11 58 44 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/83d4e1d0-f85f-463f-941e-44f5b3825d0f"> (traveler  - animated)
 
 
 

@@ -30,7 +30,7 @@
 
 <img width="1435" alt="Screen Shot 2023-07-08 at 9 10 49 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/59e938c1-d483-4a1b-a298-551cd2de3440"> (hexagon)
 
-<img width="1434" alt="Screen Shot 2023-07-08 at 9 33 22 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/d3acd8d2-d77c-4e26-8e35-1086280cb8d1"> (peacock-puddle)
+<img width="1434" alt="Screen Shot 2023-07-08 at 9 37 12 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/c41f0403-002b-4fbd-8cf3-422df659beeb"> (peacock-puddle)
 
 
 

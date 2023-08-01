@@ -51,7 +51,7 @@ I downloaded the "Cyberpunk 2077" theme from HACS and then edited the file so I 
 
 I did not change the color names so if you decide to look at each file they won't make sense. All I did was change the color codes and the background link.
 
-I suggest installing HACS and then download the "Cyberpunk 2077" theme so you can follow a solid installation guide. From there you can add these files to your "themes" directory. Make sure each file has its own directory with the same name as the file. For example "hell.yaml" will be in the "hell" directory which is located in the "themes" directory.
+I suggest installing HACS and then download the "Cyberpunk 2077" theme so you can follow a solid installation guide. (I didn't add the cyberpunk font or card mod) From there you can add these files to your "themes" directory. Make sure each file has its own directory with the same name as the file. For example "hell.yaml" will be in the "hell" directory which is located in the "themes" directory.
 
 ADDED ANIMATED WEATHER ICONS (The Waves theme from HACS is needed to make it work. It adds all the necessary weather icon files)
 

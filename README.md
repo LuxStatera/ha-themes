@@ -28,6 +28,8 @@
 
 <img width="1435" alt="Screen Shot 2023-07-08 at 9 10 49 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/59e938c1-d483-4a1b-a298-551cd2de3440"> (hexagon)
 
+<img width="1419" alt="Screen Shot 2024-01-17 at 1 50 31 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/57835fe2-76b8-4911-a230-6805c11ab5d2"> (fire-mountain)
+
 <img width="1434" alt="Screen Shot 2023-07-08 at 9 37 12 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/c41f0403-002b-4fbd-8cf3-422df659beeb"> (peacock-puddle)
 
 <img width="1430" alt="Screen Shot 2023-07-08 at 10 19 11 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/59ca256c-44fb-4700-81a2-41b52cb0b550"> (neon-joker)

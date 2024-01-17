@@ -42,6 +42,7 @@
 
 <img width="1435" alt="Screen Shot 2023-07-09 at 1 41 33 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/5d496847-3087-4a9f-b673-c1375726337c"> (8bit-rain  - animated)
 
+<img width="1435" alt="Screen Shot 2024-01-17 at 2 12 21 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/cc715541-7f39-4a14-81d9-b756ce8e40aa"> (smoking-galaxy  - animated)
 
 
 

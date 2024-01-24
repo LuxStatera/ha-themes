@@ -14,6 +14,8 @@
 
 <img width="1432" alt="h4ck3r" src="https://user-images.githubusercontent.com/73693443/201922516-9abf1c61-f574-450d-85f9-cf0c46907b87.png"> (h4ck3r)
 
+<img width="1424" alt="Screen Shot 2024-01-23 at 9 25 41 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/dd010c11-f2c0-4eda-a618-98e683bd60da"> (bright-light)
+
 <img width="1434" alt="Screen Shot 2023-06-16 at 8 40 35 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/81cc783a-5feb-4de3-99de-a7aa8a385e25"> (graveyard)
 
 <img width="1433" alt="Screen Shot 2023-06-16 at 8 07 52 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/58c61c46-71fe-4ce5-baf6-4e39d4a2cadf"> (smoking-good)

@@ -50,6 +50,8 @@
 
 <img width="1418" alt="Screen Shot 2024-01-17 at 2 21 37 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/09adb3ec-5d9f-410e-8dc4-e59467fb4b87"> (smoking-galaxy  - animated)
 
+<img width="1437" alt="Screen Shot 2024-03-01 at 11 53 39 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/2308db14-5984-4405-a70e-898bde5150ff"> (blue-torus  -  animated)
+
 
 
 

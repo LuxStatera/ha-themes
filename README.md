@@ -42,15 +42,15 @@
 
 <img width="1431" alt="Screen Shot 2023-07-08 at 11 25 51 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/7cbfae38-ac98-456f-9227-659fdc2f3a18"> (hope-city)
 
-<img width="1438" alt="Screen Shot 2023-07-08 at 10 40 32 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/259e1113-f0a1-421d-811a-131e976da615"> (8bit-city  - animated)
+<img width="1438" alt="Screen Shot 2023-07-08 at 10 40 32 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/259e1113-f0a1-421d-811a-131e976da615"> (8bit-city  - ANIMATED)
 
-<img width="1434" alt="Screen Shot 2023-07-08 at 11 58 44 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/83d4e1d0-f85f-463f-941e-44f5b3825d0f"> (traveler  - animated)
+<img width="1434" alt="Screen Shot 2023-07-08 at 11 58 44 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/83d4e1d0-f85f-463f-941e-44f5b3825d0f"> (traveler  - ANIMATED)
 
-<img width="1435" alt="Screen Shot 2023-07-09 at 1 41 33 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/5d496847-3087-4a9f-b673-c1375726337c"> (8bit-rain  - animated)
+<img width="1435" alt="Screen Shot 2023-07-09 at 1 41 33 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/5d496847-3087-4a9f-b673-c1375726337c"> (8bit-rain  - ANIMATED)
 
-<img width="1418" alt="Screen Shot 2024-01-17 at 2 21 37 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/09adb3ec-5d9f-410e-8dc4-e59467fb4b87"> (smoking-galaxy  - animated)
+<img width="1418" alt="Screen Shot 2024-01-17 at 2 21 37 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/09adb3ec-5d9f-410e-8dc4-e59467fb4b87"> (smoking-galaxy  - ANIMATED)
 
-<img width="1437" alt="Screen Shot 2024-03-01 at 11 53 39 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/2308db14-5984-4405-a70e-898bde5150ff"> (blue-torus  -  animated)
+<img width="1437" alt="Screen Shot 2024-03-01 at 11 53 39 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/2308db14-5984-4405-a70e-898bde5150ff"> (blue-torus  -  ANIMATED)
 
 
 

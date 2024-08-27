@@ -6,7 +6,7 @@
 
 <img width="1432" alt="Screen Shot 2023-06-16 at 3 45 46 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/a96a9836-3d7c-4513-a305-d61c1517fd3c"> (digital-high)
 
-<img width="1434" alt="Screen Shot 2024-08-27 at 2 20 06 AM" src="https://github.com/user-attachments/assets/a4b2e523-667f-4bbb-85c4-09882a4728f6"> (crimson-flow)
+<img width="1433" alt="Screen Shot 2024-08-27 at 2 38 12 AM" src="https://github.com/user-attachments/assets/5b06902d-1a95-4546-a9f3-8fb795e0ff9c"> (crimson-flow)
 
 <img width="1421" alt="Screen Shot 2024-01-17 at 9 40 08 PM" src="https://github.com/LuxStatera/ha-themes/assets/73693443/7f45627c-9869-4ec7-a49c-172c164f017b"> (green-serene)
 
